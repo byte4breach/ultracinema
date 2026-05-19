@@ -15,7 +15,7 @@ from telegram.ext import (
 
 # ── Config ─────────────────────────────────────────────────────
 BOT_TOKEN   = os.getenv("BOT_TOKEN", "8796607447:AAHPvCaZyKyVln2rIpdsZawbwY8TIgSDtt0")
-WEB_APP_URL = os.getenv("WEB_APP_URL", "https://byte4breach.github.io/cinemamaxx")
+WEB_APP_URL = os.getenv("WEB_APP_URL", "https://byte4breach.github.io/ultracinema")
 API_URL     = os.getenv("API_URL", "http://localhost:8000")   # your backend
 
 STANDARD_PRICE = 20
