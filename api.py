@@ -16,7 +16,7 @@ from typing import List
 # ── Config ─────────────────────────────────────────────────────
 DB_DSN = os.getenv(
     "DATABASE_URL",
-    "postgresql://postgres:postgres@localhost:1234/cinema_db"
+    "postgresql://database_0zbe_user:YiKpZqSTuPrZwFlOHItjD9K7AU70ttee@dpg-d8631lh9rddc73ev38k0-a/database_0zbe"
 )
 
 # ── Lifespan (DB pool) ──────────────────────────────────────────
